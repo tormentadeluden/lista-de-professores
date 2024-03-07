@@ -1,0 +1,16 @@
+<style>
+li{
+    color: magenta;
+    border:double 5px;
+    font-size: 90px;
+    background-color: black;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+text-decoration:line-through underline overline;
+}
+p{
+    background-color: black;
+}
+
+    </style>
